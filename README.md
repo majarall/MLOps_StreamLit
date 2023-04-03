@@ -1,7 +1,5 @@
 # README
 
-# README
-
 This document provides an overview of the transformer models and streamlit application.
 
 ## Transformer models
